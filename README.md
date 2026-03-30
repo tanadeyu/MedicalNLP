@@ -1,6 +1,7 @@
 # Medical NLP: 医療テキスト分析システム
 
 BioBERTによる固有表現抽出（NER）とRAGによる医療QAを統合した、包括的な医療NLPシステム。
+Biomedical-NER + Medical-RAG + Integrated-Medical-NLP
 
 ---
 
