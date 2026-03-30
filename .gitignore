@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables (SECURITY: API keys)
+.env
+.env.local
+
+# Data & Models (Large files)
+data/
+results/
+models/
+temp_medquad/
+*.pkl
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Processed Data
+processed_*/
+*.json
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Internal docs
+仕様書.md
+*仕様書.md

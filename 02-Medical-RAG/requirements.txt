@@ -1,0 +1,25 @@
+# Medical-RAG プロジェクト
+
+# LangChain
+langchain==1.2.13
+langchain-openai==0.1.22
+langchain-huggingface==0.0.4
+langchain-community==1.2.13
+langchain-classic==0.1.0
+langchain-text-splitters==1.2.13
+
+# ベクトルDB
+chromadb==1.5.5
+
+# 埋め込みモデル
+sentence-transformers==2.2.2
+
+# データ処理
+datasets==2.18.0
+pandas==2.0.3
+
+# 環境変数
+python-dotenv==1.0.0
+
+# PyTorch
+torch==2.5.1
